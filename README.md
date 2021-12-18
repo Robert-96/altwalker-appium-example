@@ -20,7 +20,7 @@ You can clone this repository and run the example tests provided. The android ap
 
 ## File overview
 
-* `app/selendroid-test-app.apk`: is an android test provided by the [Appium Python Client](https://github.com/appium/python-client)
+* `app/ApiDemos-debug.apk`: is an android test provided by the [Appium Python Client](https://github.com/appium/python-client)
 
 
 ## Running the tests
