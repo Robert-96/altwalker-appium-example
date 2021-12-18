@@ -2,7 +2,7 @@
 
 A simple example of how to use [AltWalker](https://altom.gitlab.io/altwalker/altwalker/) with tests written with [Appium](https://appium.io/).
 
-You can clone this repository and run the example tests provided. The android app is provided by the [Appium Python Client](https://github.com/appium/python-client) project. You'll need to make sure that you set up your environment properly using the [Appium documentation](https://appium.io/).
+You can clone this repository and run the example tests provided. The android app (`app/ApiDemos-debug.apk`) is provided by the [Appium Python Client](https://github.com/appium/python-client) project. You'll need to make sure that you set up your environment properly using the [Appium documentation](https://appium.io/).
 
 ## Setup
 
@@ -17,11 +17,6 @@ You can clone this repository and run the example tests provided. The android ap
     ```
     $ pip install -r requirements.txt
     ```
-
-## File overview
-
-* `app/ApiDemos-debug.apk`: is an android test provided by the [Appium Python Client](https://github.com/appium/python-client)
-
 
 ## Running the tests
 
